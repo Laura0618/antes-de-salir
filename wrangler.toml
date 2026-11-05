@@ -36,5 +36,5 @@ GOOGLE_CLIENT_ID = "848439266426-7ni6uplbrgc7gusfal9ruf0fpeo81trr.apps.googleuse
 [[d1_databases]]
 binding = "DB"
 database_name = "antes_de_salir"
-database_id = "PENDIENTE"
+database_id = "97b2ced6-f822-4b21-9c1e-04625c257085"
 migrations_dir = "migrations"
